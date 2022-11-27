@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+    margin-left: 30px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.username {
+    height: 80px;
+    width: 200px;
+}
+
+.username-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.input {
+    margin-top: 10px;
+    height: 20px;
+}
+
+.password {
+    height: 80px;
+    width: 200px;
+}
+
+.password-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.submit-button {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    background-color: #0275d8;
+    padding: 10px;
+}
+
+.result-message {
+    font-family: "Roboto";
+    font-size: 20px;
+}
